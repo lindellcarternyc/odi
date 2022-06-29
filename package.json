@@ -1,0 +1,10 @@
+{
+  "name": "odi",
+  "version": "0.0.1",
+  "description": "\"A DI Library written in Typescript\"",
+  "main": "index.js",
+  "repository": "https://github.com/lindellcarternyc/odi.git",
+  "author": "lindellcarternyc <lindellcarternyc@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
